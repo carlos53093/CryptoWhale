@@ -16,9 +16,6 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  // "include": [
-  //   "src"
-  // ]
   "include": ["custom-next-env.d.ts", "next-svg.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"],
   "typeRoots": [
